@@ -87,6 +87,7 @@ def send_message(text):
 # MAIN LOGIC
 # ======================
 def main():
+    send_message("✅ TEST MESSAGE FROM GITHUB ACTIONS")
     status = load_status()
     ipos = get_ipos()
 
