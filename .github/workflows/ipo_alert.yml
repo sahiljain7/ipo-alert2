@@ -1,0 +1,36 @@
+name: IPO Alerts
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch:
+
+jobs:
+  send_alert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run IPO script
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python ipo_github_bot.py
+
+      - name: Commit updated status
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add ipo_status.json
+          git commit -m "Update IPO status"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
