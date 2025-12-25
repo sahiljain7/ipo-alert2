@@ -118,9 +118,8 @@ def main():
             # ======================
             # OPEN ALERT
             # ======================
-            if (
-                ipo_status == "open"
-                and not status[name]["notified_open"]
+            if not (
+                status[name]["notified_open"]
             ):
                 msg = (
                     f"📢 *IPO OPEN*\n\n"
