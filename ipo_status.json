@@ -22,5 +22,13 @@
   "Shadowfax Technologies Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Fractal Analytics Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Aye Finance Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
