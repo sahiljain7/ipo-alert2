@@ -30,5 +30,9 @@
   "Aye Finance Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "IIFL Finance Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
