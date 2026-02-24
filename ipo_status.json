@@ -37,13 +37,17 @@
   },
   "Gaudium IVF and Women Health Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Clean Max Enviro Energy Solutions Limited": {
     "notified_open": true,
     "notified_last_day": false
   },
   "Shree Ram Twistex Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "PNGS Reva Diamond Jewellery Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
