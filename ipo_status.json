@@ -41,13 +41,21 @@
   },
   "Clean Max Enviro Energy Solutions Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Shree Ram Twistex Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "PNGS Reva Diamond Jewellery Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Omnitech Engineering Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Nashik Municipal Corporation": {
     "notified_open": true,
     "notified_last_day": false
   }
