@@ -33,7 +33,7 @@
   },
   "IIFL Finance Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Gaudium IVF and Women Health Limited": {
     "notified_open": true,
@@ -58,5 +58,9 @@
   "Nashik Municipal Corporation": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Sedemac Mechatronics Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
