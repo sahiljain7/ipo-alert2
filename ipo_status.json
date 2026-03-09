@@ -62,5 +62,9 @@
   "Sedemac Mechatronics Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Rajputana Stainless Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
