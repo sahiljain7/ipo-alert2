@@ -65,9 +65,13 @@
   },
   "Rajputana Stainless Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Innovision Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Raajmarg Infra Investment Trust": {
     "notified_open": true,
     "notified_last_day": false
   }
