@@ -69,9 +69,13 @@
   },
   "Innovision Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Raajmarg Infra Investment Trust": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Rajputana Stainless Limited-Special Withdrawal Option": {
     "notified_open": true,
     "notified_last_day": false
   }
