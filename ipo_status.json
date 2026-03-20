@@ -82,5 +82,9 @@
   "GSP Crop Science Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Central Mine Planning & Design Institute Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
