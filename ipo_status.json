@@ -85,6 +85,18 @@
   },
   "Central Mine Planning & Design Institute Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Sai Parenteral's Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Amir Chand Jagdish Kumar (Exports) Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Powerica Limited": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
