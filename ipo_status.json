@@ -89,14 +89,14 @@
   },
   "Sai Parenteral's Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Amir Chand Jagdish Kumar (Exports) Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Powerica Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   }
 }
