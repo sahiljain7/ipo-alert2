@@ -98,5 +98,9 @@
   "Powerica Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Om Power Transmission Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
