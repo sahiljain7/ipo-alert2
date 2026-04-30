@@ -106,5 +106,9 @@
   "Citius Transnet Investment Trust": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Onemi Technology Solutions Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
