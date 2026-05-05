@@ -109,6 +109,10 @@
   },
   "Onemi Technology Solutions Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Bagmane Prime Office REIT": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
