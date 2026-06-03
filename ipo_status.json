@@ -114,5 +114,9 @@
   "Bagmane Prime Office REIT": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "CMR Green Technologies Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
