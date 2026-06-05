@@ -117,6 +117,10 @@
   },
   "CMR Green Technologies Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Hexagon Nutrition Limited": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
