@@ -122,5 +122,9 @@
   "Hexagon Nutrition Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Turtlemint Fintech Solutions Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
