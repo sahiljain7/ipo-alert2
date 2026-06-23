@@ -125,6 +125,14 @@
   },
   "Turtlemint Fintech Solutions Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Advit Jewels Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Waterways Leisure Tourism Limited": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
