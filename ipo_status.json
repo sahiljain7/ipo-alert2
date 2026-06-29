@@ -137,6 +137,10 @@
   },
   "CSM Technologies Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Aastha Spintex Limited": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
