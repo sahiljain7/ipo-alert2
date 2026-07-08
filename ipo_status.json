@@ -146,5 +146,9 @@
   "Knack Packaging Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Kusumgar Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
