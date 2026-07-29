@@ -182,5 +182,9 @@
   "INDO-MIM Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Manipal Health Enterprises Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
