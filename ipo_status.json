@@ -189,10 +189,10 @@
   },
   "MV Electrosystems Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Juniper Green Energy Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   }
 }
