@@ -194,5 +194,9 @@
   "Juniper Green Energy Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Ardee Industries Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
