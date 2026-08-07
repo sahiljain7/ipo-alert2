@@ -197,6 +197,14 @@
   },
   "Ardee Industries Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Leap India Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Technocraft Ventures Limited": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
