@@ -206,5 +206,13 @@
   "Technocraft Ventures Limited": {
     "notified_open": true,
     "notified_last_day": false
+  },
+  "Dhoot Transmission Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Molbio Diagnostics Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
