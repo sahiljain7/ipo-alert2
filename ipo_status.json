@@ -201,17 +201,21 @@
   },
   "Leap India Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Technocraft Ventures Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Dhoot Transmission Limited": {
     "notified_open": true,
     "notified_last_day": false
   },
   "Molbio Diagnostics Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Milky Mist Dairy Food Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
