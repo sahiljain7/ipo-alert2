@@ -209,13 +209,21 @@
   },
   "Dhoot Transmission Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Molbio Diagnostics Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Milky Mist Dairy Food Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Shiprocket Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Behari Lal Engineering Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
