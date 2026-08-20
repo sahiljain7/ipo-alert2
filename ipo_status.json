@@ -237,13 +237,17 @@
   },
   "Sunshine Pictures Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Shankesh Jewellers Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Gaja Alternative Asset Management Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Tempsens Instruments (India) Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
