@@ -245,9 +245,13 @@
   },
   "Gaja Alternative Asset Management Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Tempsens Instruments (India) Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Augmont Enterprises Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
