@@ -253,7 +253,7 @@
   },
   "Augmont Enterprises Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Skyways Air Services Limited": {
     "notified_open": true,
@@ -264,6 +264,10 @@
     "notified_last_day": false
   },
   "Symbiotec Pharmalab Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Annu Projects Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
