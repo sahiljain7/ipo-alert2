@@ -257,17 +257,21 @@
   },
   "Skyways Air Services Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Hy-Tech Engineers Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Symbiotec Pharmalab Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Annu Projects Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Lumino Industries Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
