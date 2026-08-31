@@ -273,13 +273,17 @@
   },
   "Lumino Industries Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "ESDS Software Solution Limited": {
     "notified_open": true,
     "notified_last_day": false
   },
   "Priority Jewels Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Purple Style Labs Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
