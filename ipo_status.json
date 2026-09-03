@@ -289,10 +289,10 @@
   },
   "Deepa Jewellers Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Rays of Belief Limited- For Profit Social Enterprise (FPSE)": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   }
 }
