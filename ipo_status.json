@@ -297,7 +297,7 @@
   },
   "Pranav Constructions Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Prasol Chemicals Limited": {
     "notified_open": true,
@@ -308,6 +308,30 @@
     "notified_last_day": false
   },
   "Kanohar Electricals Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "LCC Projects Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Karamtara Engineering Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Asset Reconstruction Company (India) Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Steamhouse India Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Manipal Payment and Identity Solutions Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Rentomojo Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
