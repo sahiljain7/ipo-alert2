@@ -301,15 +301,15 @@
   },
   "Prasol Chemicals Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Glass Wall Systems (India) Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Kanohar Electricals Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "LCC Projects Limited": {
     "notified_open": true,
@@ -332,6 +332,10 @@
     "notified_last_day": false
   },
   "Rentomojo Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Veegaland Developers Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
