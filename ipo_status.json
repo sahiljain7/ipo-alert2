@@ -313,29 +313,33 @@
   },
   "LCC Projects Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Karamtara Engineering Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Asset Reconstruction Company (India) Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Steamhouse India Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Manipal Payment and Identity Solutions Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Rentomojo Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Veegaland Developers Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Manika Plastech Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
