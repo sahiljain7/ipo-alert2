@@ -341,6 +341,18 @@
   },
   "Manika Plastech Limited": {
     "notified_open": true,
+    "notified_last_day": true
+  },
+  "Jindal Supreme (India) Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Hero Motors Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "SS Retail Limited": {
+    "notified_open": true,
     "notified_last_day": false
   }
 }
