@@ -354,5 +354,13 @@
   "SS Retail Limited": {
     "notified_open": true,
     "notified_last_day": false
+  },
+  "National Stock Exchange of India Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Sonaselection India Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
