@@ -362,5 +362,9 @@
   "Sonaselection India Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Varmora Granito Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
