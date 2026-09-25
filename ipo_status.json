@@ -369,25 +369,41 @@
   },
   "Adroit Industries (India) Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "ArMee Infotech Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Elevate Campuses Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Swastika Infra Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Moneyview Limited": {
     "notified_open": true,
     "notified_last_day": false
   },
   "A-One Steels India Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Orient Cables (India) Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "German Green Steel and Power Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Runwal Enterprises Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "AceVector Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
