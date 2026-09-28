@@ -385,11 +385,11 @@
   },
   "Moneyview Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "A-One Steels India Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Orient Cables (India) Limited": {
     "notified_open": true,
@@ -404,6 +404,14 @@
     "notified_last_day": false
   },
   "AceVector Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Shah Investor's Home Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Srit India Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
