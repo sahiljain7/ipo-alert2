@@ -409,9 +409,17 @@
   },
   "Shah Investor's Home Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Srit India Limited": {
+    "notified_open": true,
+    "notified_last_day": true
+  },
+  "Vishal Nirmiti Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Nityas Gems and Jewellery Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
