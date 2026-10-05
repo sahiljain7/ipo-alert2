@@ -417,9 +417,13 @@
   },
   "Vishal Nirmiti Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Nityas Gems and Jewellery Limited": {
+    "notified_open": true,
+    "notified_last_day": true
+  },
+  "SMC Global Securities Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
