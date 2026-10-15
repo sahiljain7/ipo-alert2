@@ -433,9 +433,25 @@
   },
   "HD Fire Protect Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Fusion CX Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Tonbo Imaging India Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Sahajanand Medical Technologies Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Zetwerk Manufacturing Businesses Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Bonfiglioli Transmissions Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
