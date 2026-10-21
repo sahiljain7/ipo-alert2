@@ -454,5 +454,13 @@
   "Bonfiglioli Transmissions Limited": {
     "notified_open": true,
     "notified_last_day": true
+  },
+  "Jio Platforms Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Paras Healthcare Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
