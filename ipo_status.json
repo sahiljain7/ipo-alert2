@@ -465,13 +465,17 @@
   },
   "EAAA India Alternatives Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "BLS Polymers Limited": {
     "notified_open": true,
     "notified_last_day": false
   },
   "SFC Environmental Technologies Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "M. K. Sons Fine Jewels Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
