@@ -469,13 +469,17 @@
   },
   "BLS Polymers Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "SFC Environmental Technologies Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "M. K. Sons Fine Jewels Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Bombay Coated and Special Steels Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
