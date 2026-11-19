@@ -486,5 +486,13 @@
   "Crystal Crop Protection Limited": {
     "notified_open": true,
     "notified_last_day": false
+  },
+  "Mahanadi Coalfields Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Watrana Rentals Limited": {
+    "notified_open": true,
+    "notified_last_day": false
   }
 }
