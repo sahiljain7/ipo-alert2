@@ -497,9 +497,13 @@
   },
   "Shree Siddhivinayak Greentech Industries Limited": {
     "notified_open": true,
-    "notified_last_day": false
+    "notified_last_day": true
   },
   "Foodlink F&B Holdings (India) Limited": {
+    "notified_open": true,
+    "notified_last_day": false
+  },
+  "Airpro Technology India Limited": {
     "notified_open": true,
     "notified_last_day": false
   }
